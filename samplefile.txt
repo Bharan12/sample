@@ -7,3 +7,6 @@ i have added new line on the local repository
 3.git commit -m "My First commit"
 4.git remote add origin url
 5.git push -u origin master
+
+pull code from remote
+1.git pull
